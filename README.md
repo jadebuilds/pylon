@@ -5,7 +5,8 @@ Pylon is a framework for rapid semi-consensus group decision-making.
 Pylon features a slapdash attempt at an agent which can do the following:
 * Identify decisions to make using end-of-day and end-of-week surveys / direct conversations with team members;
 * Facilitate rapid consensus using NLP (collect everyone's thoughts, see if they agree);
-* Autonomously schedule meetings to work through areas of contention.
+* Autonomously schedule meetings to work through areas of contention;
+* Share out narrative history which summarizes the evolution of group thinking.
 
 Pylon is currently pre-alpha / not ready for public use.
 
